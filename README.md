@@ -1,8 +1,7 @@
 # Fixation Scaling Laws in Radiology
+This repository contains the analysis code for the paper *"Power-law scaling of expert visual attention during chest radiograph interpretation"*.
 <img width="1165" height="656" alt="image" src="https://github.com/user-attachments/assets/fe9a32ea-1f42-4c0d-afeb-2b7982e693df" />
 
-
-This repository contains the analysis code for the paper *"Power-law scaling of expert visual attention during chest radiograph interpretation"*.
 
 The paper establishes three findings. First, radiologists' fixation counts on abnormalities follow a power law in abnormality area, and this relationship replicates in non-clinical referential attention datasets. Second, the exponent of this law compresses monotonically as radiologists approach diagnostic commitment. Third, geometry-corrected residuals from this law identify diagnostically difficult findings within individual cases beyond what fixation magnitude or latency metrics capture alone.
 
