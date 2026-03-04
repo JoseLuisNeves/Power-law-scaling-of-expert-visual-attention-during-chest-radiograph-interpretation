@@ -1,4 +1,6 @@
 # Fixation Scaling Laws in Radiology
+<img width="1165" height="656" alt="image" src="https://github.com/user-attachments/assets/fe9a32ea-1f42-4c0d-afeb-2b7982e693df" />
+
 
 This repository contains the analysis code for the paper *"Power-law scaling of expert visual attention during chest radiograph interpretation"*.
 
